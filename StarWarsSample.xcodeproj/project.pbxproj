@@ -20,16 +20,16 @@
 		843BF41D2740CDED006BE222 /* PlanetTVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 843BF41B2740CDED006BE222 /* PlanetTVCell.xib */; };
 		843BF4202740CFA2006BE222 /* PlanetTVCellVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF41F2740CFA2006BE222 /* PlanetTVCellVM.swift */; };
 		843BF4232740DA37006BE222 /* PlanetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF4222740DA37006BE222 /* PlanetModel.swift */; };
-		843BF4272740E427006BE222 /* Localizator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF4262740E427006BE222 /* Localizator.swift */; };
 		843BF4292740EC69006BE222 /* StarWarsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF4282740EC69006BE222 /* StarWarsService.swift */; };
 		843BF42B2740EDD7006BE222 /* StarWarsRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF42A2740EDD7006BE222 /* StarWarsRouter.swift */; };
 		843BF42D2740F7C4006BE222 /* StarWarsEndPoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF42C2740F7C4006BE222 /* StarWarsEndPoints.swift */; };
 		843BF4302740FA74006BE222 /* AppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF42F2740FA74006BE222 /* AppSettings.swift */; };
 		843BF4322740FAFF006BE222 /* StarWarsHTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF4312740FAFF006BE222 /* StarWarsHTTPClient.swift */; };
-		843BF4342740FE8E006BE222 /* Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF4332740FE8E006BE222 /* Extention.swift */; };
 		843BF4362740FFB8006BE222 /* MetaObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF4352740FFB8006BE222 /* MetaObject.swift */; };
 		843BF43B27410E26006BE222 /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF43A27410E26006BE222 /* BaseVC.swift */; };
-		843BF43D27411435006BE222 /* LoadingDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF43C27411435006BE222 /* LoadingDelegate.swift */; };
+		843BF44E27421176006BE222 /* LoadingDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF44B27421176006BE222 /* LoadingDelegate.swift */; };
+		843BF44F27421176006BE222 /* Localizator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF44C27421176006BE222 /* Localizator.swift */; };
+		843BF45027421176006BE222 /* Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843BF44D27421176006BE222 /* Extention.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,16 +47,16 @@
 		843BF41B2740CDED006BE222 /* PlanetTVCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PlanetTVCell.xib; sourceTree = "<group>"; };
 		843BF41F2740CFA2006BE222 /* PlanetTVCellVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetTVCellVM.swift; sourceTree = "<group>"; };
 		843BF4222740DA37006BE222 /* PlanetModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetModel.swift; sourceTree = "<group>"; };
-		843BF4262740E427006BE222 /* Localizator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizator.swift; sourceTree = "<group>"; };
 		843BF4282740EC69006BE222 /* StarWarsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsService.swift; sourceTree = "<group>"; };
 		843BF42A2740EDD7006BE222 /* StarWarsRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsRouter.swift; sourceTree = "<group>"; };
 		843BF42C2740F7C4006BE222 /* StarWarsEndPoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsEndPoints.swift; sourceTree = "<group>"; };
 		843BF42F2740FA74006BE222 /* AppSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSettings.swift; sourceTree = "<group>"; };
 		843BF4312740FAFF006BE222 /* StarWarsHTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarWarsHTTPClient.swift; sourceTree = "<group>"; };
-		843BF4332740FE8E006BE222 /* Extention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extention.swift; sourceTree = "<group>"; };
 		843BF4352740FFB8006BE222 /* MetaObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetaObject.swift; sourceTree = "<group>"; };
 		843BF43A27410E26006BE222 /* BaseVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseVC.swift; sourceTree = "<group>"; };
-		843BF43C27411435006BE222 /* LoadingDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingDelegate.swift; sourceTree = "<group>"; };
+		843BF44B27421176006BE222 /* LoadingDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingDelegate.swift; sourceTree = "<group>"; };
+		843BF44C27421176006BE222 /* Localizator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Localizator.swift; sourceTree = "<group>"; };
+		843BF44D27421176006BE222 /* Extention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extention.swift; sourceTree = "<group>"; };
 		910241F895C4857C7291073C /* Pods-StarWarsSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarWarsSample.debug.xcconfig"; path = "Target Support Files/Pods-StarWarsSample/Pods-StarWarsSample.debug.xcconfig"; sourceTree = "<group>"; };
 		ABD83C9BD40ADD1EA799B417 /* Pods_StarWarsSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StarWarsSample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -103,8 +103,8 @@
 		843BF3F52740CAFD006BE222 /* StarWarsSample */ = {
 			isa = PBXGroup;
 			children = (
+				843BF44427421128006BE222 /* Helper */,
 				843BF42E2740FA65006BE222 /* AppSettings */,
-				843BF4242740E409006BE222 /* Helper */,
 				843BF4212740DA27006BE222 /* Models */,
 				843BF4192740CDC7006BE222 /* Cells */,
 				843BF40E2740CB47006BE222 /* StoryBoards */,
@@ -207,16 +207,6 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		843BF4242740E409006BE222 /* Helper */ = {
-			isa = PBXGroup;
-			children = (
-				843BF4262740E427006BE222 /* Localizator.swift */,
-				843BF4332740FE8E006BE222 /* Extention.swift */,
-				843BF43C27411435006BE222 /* LoadingDelegate.swift */,
-			);
-			name = Helper;
-			sourceTree = "<group>";
-		};
 		843BF42E2740FA65006BE222 /* AppSettings */ = {
 			isa = PBXGroup;
 			children = (
@@ -231,6 +221,16 @@
 				843BF43A27410E26006BE222 /* BaseVC.swift */,
 			);
 			path = Base;
+			sourceTree = "<group>";
+		};
+		843BF44427421128006BE222 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				843BF44D27421176006BE222 /* Extention.swift */,
+				843BF44B27421176006BE222 /* LoadingDelegate.swift */,
+				843BF44C27421176006BE222 /* Localizator.swift */,
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 		8F5520B3A50D3D546C2F0139 /* Frameworks */ = {
@@ -365,15 +365,15 @@
 				843BF4132740CB95006BE222 /* PlanetListVM.swift in Sources */,
 				843BF4112740CB87006BE222 /* PlanetListVC.swift in Sources */,
 				843BF4292740EC69006BE222 /* StarWarsService.swift in Sources */,
-				843BF4272740E427006BE222 /* Localizator.swift in Sources */,
-				843BF4342740FE8E006BE222 /* Extention.swift in Sources */,
 				843BF41C2740CDED006BE222 /* PlanetTVCell.swift in Sources */,
+				843BF44E27421176006BE222 /* LoadingDelegate.swift in Sources */,
 				843BF4232740DA37006BE222 /* PlanetModel.swift in Sources */,
 				843BF43B27410E26006BE222 /* BaseVC.swift in Sources */,
 				843BF42D2740F7C4006BE222 /* StarWarsEndPoints.swift in Sources */,
 				843BF4182740CBC0006BE222 /* PlanetDetailsVM.swift in Sources */,
 				843BF4162740CBB2006BE222 /* PlanetDetailsVC.swift in Sources */,
-				843BF43D27411435006BE222 /* LoadingDelegate.swift in Sources */,
+				843BF44F27421176006BE222 /* Localizator.swift in Sources */,
+				843BF45027421176006BE222 /* Extention.swift in Sources */,
 				843BF42B2740EDD7006BE222 /* StarWarsRouter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

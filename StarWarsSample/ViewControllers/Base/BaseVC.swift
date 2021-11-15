@@ -13,7 +13,6 @@ class BaseVC: UIViewController, UIScrollViewDelegate, LoadingIndicatorDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
     }
     
     func configureLoadMoreFooter() -> DefaultRefreshFooter {
